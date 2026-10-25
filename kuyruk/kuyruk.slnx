@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="kuyruk/kuyruk.vcxproj" Id="56e60dc8-3223-4d6d-adee-306d025718de" />
+</Solution>
