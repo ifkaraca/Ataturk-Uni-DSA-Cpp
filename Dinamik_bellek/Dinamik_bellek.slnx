@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Dinamik_bellek/Dinamik_bellek.vcxproj" />
+</Solution>

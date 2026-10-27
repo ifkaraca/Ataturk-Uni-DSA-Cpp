@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cok_Boyutlu_Diziler/Cok_Boyutlu_Diziler.vcxproj" />
+</Solution>
