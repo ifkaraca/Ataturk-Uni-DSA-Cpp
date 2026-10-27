@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bagli_listelerde_stack/Bagli_listelerde_stack.vcxproj" />
+</Solution>
